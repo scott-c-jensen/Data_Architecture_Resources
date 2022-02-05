@@ -8,11 +8,14 @@ A simple list of different resources Data Architecture, Data Science, Guis, and 
 ### Analytics Implimentation
 
 ### ELT and ETLs
-Stitch  
-Talend  
-Tableau (has some of this)  
-Power BI (has some)  
-Fivetran  
+- Stitch  
+- Talend  
+- Tableau (has some of this)  
+- Power BI (has some)  
+- Fivetran  
+
+### Webhosting
+ - Database
 
 ### Quality Assurance - Data Base
 
