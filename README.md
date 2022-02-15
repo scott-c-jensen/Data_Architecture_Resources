@@ -29,7 +29,8 @@ Tableau
 
 ## Guis
 PySimpleGui  
-Gooey  
+Gooey 
+PyGubu
 
 
 ## Webapps
